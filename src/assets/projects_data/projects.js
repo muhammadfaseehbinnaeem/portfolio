@@ -8,7 +8,7 @@ const projects = [
     {
         id: 2,
         name: 'CourseAI',
-        image: require('./images/proshoppk.png'),
+        image: require('./images/courseai.png'),
         url: 'https://app.courseai.com/'
     },
 ];
