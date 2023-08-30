@@ -58,7 +58,7 @@ const AboutScreen = () => {
                     <br />
                     <br />
                     I am always eager to learn new web technologies.
-                    I love to develope clean, efficient and scalable products.
+                    I love to develop clean, efficient and scalable products.
                     <br />
                     <br />
                   </p>
