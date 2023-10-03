@@ -83,7 +83,7 @@ const ContactScreen = () => {
                     </Col>
                     <Col key='github' xs={12} md={6} lg={3} xl={3} className="social-icons">
                         <a
-                            href={`https://web.whatsapp.com/send?phone=${encodeURIComponent('923017442932')}`}
+                            href={`whatsapp://send?phone=${encodeURIComponent('923017442932')}`}
                             target="_blank"
                             rel="noreferrer"
                             className="icon-colour home-social-icons"
