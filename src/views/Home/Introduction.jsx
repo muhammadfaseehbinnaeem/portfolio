@@ -48,8 +48,8 @@ const Introduction = () => {
               <SocialIcon className='icon-colour home-social-icons' link={contactLinks.linkedin} icon={<AiFillLinkedin size='35px' className='social-icon' />} />
               <SocialIcon className='icon-colour home-social-icons' link={contactLinks.github} icon={<AiOutlineGithub size='35px' className='social-icon' />} />
               <SocialIcon className='icon-colour home-social-icons' link={contactLinks.whatsapp} icon={<FaWhatsapp size='35px' className='social-icon' />} />
-              <SocialIcon className='icon-colour home-social-icons' link={contactLinks.facebook} icon={<AiFillFacebook size='35px' className='social-icon' />} />
-              <SocialIcon className='icon-colour home-social-icons' link={contactLinks.instagram} icon={<AiOutlineInstagram size='35px' className='social-icon' />} />
+              {/* <SocialIcon className='icon-colour home-social-icons' link={contactLinks.facebook} icon={<AiFillFacebook size='35px' className='social-icon' />} />
+              <SocialIcon className='icon-colour home-social-icons' link={contactLinks.instagram} icon={<AiOutlineInstagram size='35px' className='social-icon' />} /> */}
             </ul>
           </Col>
         </Row>

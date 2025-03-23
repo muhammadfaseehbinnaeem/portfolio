@@ -23,8 +23,8 @@ const Footer = () => {
             <SocialIcon style={{ color: 'white' }} link={contactLinks.linkedin} icon={<AiFillLinkedin />} />
             <SocialIcon style={{ color: 'white' }} link={contactLinks.github} icon={<AiOutlineGithub />} />
             <SocialIcon style={{ color: 'white' }} link={contactLinks.whatsapp} icon={<FaWhatsapp />} />
-            <SocialIcon style={{ color: 'white' }} link={contactLinks.facebook} icon={<AiFillFacebook />} />
-            <SocialIcon style={{ color: 'white' }} link={contactLinks.instagram} icon={<AiOutlineInstagram />} />
+            {/* <SocialIcon style={{ color: 'white' }} link={contactLinks.facebook} icon={<AiFillFacebook />} />
+            <SocialIcon style={{ color: 'white' }} link={contactLinks.instagram} icon={<AiOutlineInstagram />} /> */}
           </ul>
         </Col>
       </Row>
